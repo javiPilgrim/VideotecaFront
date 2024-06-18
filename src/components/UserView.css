@@ -1,0 +1,53 @@
+.twitter-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #e1e8ed;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 10px auto;
+    background-color: #ffffff;
+  }
+  
+  .avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .user-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .user-details {
+    flex-grow: 1;
+  }
+  
+  .name {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .username, .email {
+    margin: 2px 0;
+    color: #657786;
+  }
+  
+  .status-button {
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9em;
+  }
+  
+  .status-button:hover {
+    background-color: #0c85d0;
+  }

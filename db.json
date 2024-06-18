@@ -1,0 +1,88 @@
+{
+  "films": [
+    {
+      "id": "872585",
+      "vista": false,
+      "titulo": "Oppenheimer",
+      "buena": 0,
+      "mala": 0
+    },
+    {
+      "id": "635910",
+      "vista": false,
+      "titulo": "El ultimo viaje del Demeter",
+      "buena": 0,
+      "mala": 0
+    },
+    {
+      "id": "670292",
+      "vista": true,
+      "titulo": "The Creator",
+      "buena": 0,
+      "mala": 2
+    },
+    {
+      "id": "597208",
+      "vista": false,
+      "titulo": "El callejon de las Almas Perdidas",
+      "buena": 0,
+      "mala": 0
+    },
+    {
+      "id": "787699",
+      "vista": true,
+      "titulo": "Wonka",
+      "buena": 1,
+      "mala": 0
+    },
+    {
+      "id": "507089",
+      "vista": false,
+      "titulo": "Five Nights at Freddy's",
+      "buena": 0,
+      "mala": 0
+    },
+    {
+      "id": "835504",
+      "vista": false,
+      "titulo": "Cinco Lobitos",
+      "buena": 1,
+      "mala": 0
+    }
+  ],
+  "users": [
+    {
+      "name": "Javier",
+      "username": "Javierito",
+      "password": "Javier",
+      "id": "2234",
+      "image": "/images/aurora.jpg",
+      "online": false,
+      "email": "javimacias@gmail.com"
+    },
+    {
+      "name": "Miriam",
+      "username": "Mirita",
+      "password": "Miriam",
+      "id": "2235",
+      "online": false,
+      "email": "miriampilar999@gmail.com"
+    },
+    {
+      "id": "89",
+      "name": "Andres",
+      "username": "Andresiño",
+      "password": "Andres",
+      "email": "andres@gmail.com",
+      "online": false
+    },
+    {
+      "id": "bda6",
+      "name": "Andrea",
+      "username": "Andreitacometeelpollo",
+      "password": "Andrea",
+      "email": "pollo@gmail.com",
+      "online": false
+    }
+  ]
+}
